@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac449c5f.css",
+    "main.js": "/static/js/main.b586cd7b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/footer-img.png": "/static/media/footer-img.b3cd47d985905feaca16.png",
+    "static/media/sub-img.png": "/static/media/sub-img.6cffc8b0ef3c987be0cc.png",
+    "static/media/keyfeatures.png": "/static/media/keyfeatures.c2aea1517d50c14e7894.png",
+    "static/media/audit.png": "/static/media/audit.37544c0770de6d988130.png",
+    "static/media/password.png": "/static/media/password.482b0c72f7b43f223f77.png",
+    "static/media/bitnine-logo.png": "/static/media/bitnine-logo.0ceb0e1d27eb4a89001e.png",
+    "static/media/data.png": "/static/media/data.9b7665d64d58e858e223.png",
+    "index.html": "/index.html",
+    "main.ac449c5f.css.map": "/static/css/main.ac449c5f.css.map",
+    "main.b586cd7b.js.map": "/static/js/main.b586cd7b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac449c5f.css",
+    "static/js/main.b586cd7b.js"
+  ]
+}
